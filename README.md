@@ -1,2 +1,2 @@
-# story_generator
+# story-generator
 Week 1 CSET assignment
